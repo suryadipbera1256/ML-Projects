@@ -1,4 +1,10 @@
 pandas
 numpy
+setuptools
 seaborn
--e .
+matplotlib
+scikit-learn
+xgboost
+Flask
+
+#-e .
